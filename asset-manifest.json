@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/avalanche-chat-app/static/js/main.97bfa5aa.chunk.js",
-    "main.js.map": "/avalanche-chat-app/static/js/main.97bfa5aa.chunk.js.map",
-    "runtime-main.js": "/avalanche-chat-app/static/js/runtime-main.a5e6a56e.js",
-    "runtime-main.js.map": "/avalanche-chat-app/static/js/runtime-main.a5e6a56e.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/avalanche-chat-app/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.1b99b0a2.chunk.js": "/avalanche-chat-app/static/js/2.1b99b0a2.chunk.js",
-    "static/js/2.1b99b0a2.chunk.js.map": "/avalanche-chat-app/static/js/2.1b99b0a2.chunk.js.map",
-    "index.html": "/avalanche-chat-app/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/avalanche-chat-app/static/css/2.4c97ca4f.chunk.css.map",
-    "static/js/2.1b99b0a2.chunk.js.LICENSE.txt": "/avalanche-chat-app/static/js/2.1b99b0a2.chunk.js.LICENSE.txt"
+    "main.js": "/avalanche-chat-dapp/static/js/main.97bfa5aa.chunk.js",
+    "main.js.map": "/avalanche-chat-dapp/static/js/main.97bfa5aa.chunk.js.map",
+    "runtime-main.js": "/avalanche-chat-dapp/static/js/runtime-main.2aea1030.js",
+    "runtime-main.js.map": "/avalanche-chat-dapp/static/js/runtime-main.2aea1030.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/avalanche-chat-dapp/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.1b99b0a2.chunk.js": "/avalanche-chat-dapp/static/js/2.1b99b0a2.chunk.js",
+    "static/js/2.1b99b0a2.chunk.js.map": "/avalanche-chat-dapp/static/js/2.1b99b0a2.chunk.js.map",
+    "index.html": "/avalanche-chat-dapp/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/avalanche-chat-dapp/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.1b99b0a2.chunk.js.LICENSE.txt": "/avalanche-chat-dapp/static/js/2.1b99b0a2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5e6a56e.js",
+    "static/js/runtime-main.2aea1030.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.1b99b0a2.chunk.js",
     "static/js/main.97bfa5aa.chunk.js"
